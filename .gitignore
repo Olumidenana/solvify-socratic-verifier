@@ -1,0 +1,14 @@
+# Environment & Cache
+__pycache__/
+*.py[cod]
+.venv/
+env/
+.env
+.env.local
+
+# Vercel
+.vercel
+
+# OS metadata
+.DS_Store
+Thumbs.db
